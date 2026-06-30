@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+
+management:
+  tracing:
+    enabled: true

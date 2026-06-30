@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: WARN
+
+management:
+  tracing:
+    enabled: false
+
+server:
+  error:
+    include-message: never
+    include-stacktrace: never
